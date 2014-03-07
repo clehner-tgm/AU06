@@ -1,0 +1,80 @@
+commit 0b4154204e4d3b6cf13b95ec0469676db1acb498
+Author: Cindy Lehner <clehner@student.tgm.ac.at>
+Date:   Fri Mar 7 10:48:01 2014 +0100
+
+    Text1 und 2 Änderung
+
+ Text1.txt | 2 +-
+ Text2.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit ad6fb0910b6039b35e965a7e448bbac976562446
+Author: Cindy Lehner <clehner@student.tgm.ac.at>
+Date:   Fri Mar 7 10:45:08 2014 +0100
+
+    Tags erzeugen und ändern
+
+ Text1.txt | 2 +-
+ Text2.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 87f041820e549bd0948862c1ed049d30f825e67d
+Author: Cindy Lehner <clehner@student.tgm.ac.at>
+Date:   Fri Mar 7 10:42:24 2014 +0100
+
+    2. Branch erzeugt
+
+ Subdir/SubText2.txt | 2 +-
+ Text1.txt           | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 4be271fc60a34cfe0def09b0d6d1f443a0c0dbe0
+Author: Cindy Lehner <clehner@student.tgm.ac.at>
+Date:   Fri Mar 7 10:41:22 2014 +0100
+
+    Änderung Subdateien
+
+ Subdir/SubText1.txt | 1 +
+ Subdir/SubText2.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 3f2c6329f2fc34573992c5bc02f9621275764985
+Author: Cindy Lehner <clehner@student.tgm.ac.at>
+Date:   Fri Mar 7 10:40:30 2014 +0100
+
+    1. Branch erzeugt
+
+ Text1.txt | 2 +-
+ Text2.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit d715d91fab76cd77fec57adf0c2032aa16193119
+Author: Cindy Lehner <clehner@student.tgm.ac.at>
+Date:   Fri Mar 7 10:38:10 2014 +0100
+
+    Dateien geändert
+
+ Text1.txt | 1 +
+ Text2.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 40953ac7c0494717a48535a9ff207820e810e531
+Author: Cindy Lehner <clehner@student.tgm.ac.at>
+Date:   Fri Mar 7 10:28:52 2014 +0100
+
+    Ersten Dateien
+
+ Subdir/SubText1.txt | 0
+ Subdir/SubText2.txt | 0
+ Text1.txt           | 0
+ Text2.txt           | 0
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f2051a658c435b99d3ec6ae18f9ad1d53bd2b1a1
+Author: Cindy Lehner <clehner@student.tgm.ac.at>
+Date:   Fri Mar 7 10:09:59 2014 +0100
+
+    Dateiendung hinzufügen
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
